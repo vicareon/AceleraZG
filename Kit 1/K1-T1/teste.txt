@@ -1,1 +1,3 @@
 Esse é o teste da última parte do curso.
+
+Lorem ipsum dolor sit amet
